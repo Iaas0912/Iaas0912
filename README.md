@@ -6,7 +6,7 @@ Sou uma aficionada pela tecnologia de 19 anos, formada em Técnico em Informáti
 
 - Criação de interfaces web dinâmicas, responsivas e acessíveis
 - Uso de tecnologias como **HTML, CSS, JavaScript e TypeScript**
-- Domínio de frameworks e bibliotecas como **React, Bootstrap e jQuery**
+- Conhecimento de frameworks e bibliotecas como **React, Bootstrap e jQuery**
 
 ## 🌱 O que estou fazendo
 
